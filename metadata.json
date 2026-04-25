@@ -1,0 +1,6 @@
+{
+  "name": "Ethio AI - Real-time Live Agent",
+  "description": "A sophisticated multimodal live agent powered by Gemini, featuring real-time audio/video streaming and an Ethiopian-inspired hardware aesthetic.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["Real-time Audio", "Real-time Video", "Multimodal Live API"]
+}
